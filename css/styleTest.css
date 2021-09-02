@@ -1,0 +1,11 @@
+@font-face {
+font-family: 'Mj_Asghar';
+src: url('../fonts/Mj_Ashgar.eot');
+src: url('../fonts/Mj_Ashgar.woff') format('woff');
+url('../fonts/Mj_Ashgar.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+body{
+font-family: "Mj_Ashgar";
+}
