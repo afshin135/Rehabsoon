@@ -1,0 +1,47 @@
+*{
+	 margin: 0;
+	 padding: 0;
+	 text-decoration: none;
+	 border: 0 none;
+	 direction: rtl;
+	 box-sizing:border-box
+}
+
+
+.nav-item:hover{
+	color: #f4cb79;
+}
+.nav-item{
+	margin-top: 20px;
+}
+.carousel{
+	margin-top: 0px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 100%;
+  border: 10px solid black;
+  background-image: none;
+}
+
+.jumbotron {
+    position: relative;
+    background: #fff url("pictures/mainbody2-background.png") center center;/*slide.jpg =>you image*/    
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+.column{
+  margin-top: 20px;
+}
+
+.fa{
+  color: white;
+}
+
+
