@@ -1,11 +1,4 @@
-@font-face {
-font-family: 'Noto Naskh Arabic', serif;
-src: url('../fonts/Mj_Ashgar.eot');
-src: url('../fonts/Mj_Ashgar.woff') format('woff');
-url('../fonts/Mj_Ashgar.ttf') format('truetype');
-font-weight: normal;
-font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic&display=swap');
 body{
 font-family: 'Noto Naskh Arabic', serif;
 }
