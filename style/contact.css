@@ -108,3 +108,6 @@ header .center .header-box{
   margin-right: 40px;
 }
 .body-text ul li{}
+body{
+   font-family: 'Noto Naskh Arabic', serif;
+}
